@@ -1,9 +1,1 @@
-[submodule "css-exercises"]
-	path = css-exercises
-	url = https://github.com/TheOdinProject/css-exercises
-[submodule "Foundations Course/CSS Foundations/CSS Foundations/--hard"]
-	path = Foundations Course/CSS Foundations/CSS Foundations/--hard
-	url = https://github.com/TheOdinProject/css-exercises
-[submodule "Foundations Course/CSS Foundations/CSS Foundations/css-exercises"]
-	path = Foundations Course/CSS Foundations/CSS Foundations/css-exercises
-	url = https://github.com/TheOdinProject/css-exercises
+
